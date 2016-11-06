@@ -5,6 +5,8 @@
 #
 # Description: Image Transformations for faces
 #
+# An example of each transformation can be found here: https://github.com/dwdii/emotional-faces/tree/master/data/transformed
+#
 __author__ = 'Daniel Dittenhafer'
 import os
 import numpy as np
