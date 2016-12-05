@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+#image transformation script. May be run at the command line with python jhamski.py
+#this will only transform images listed in the CSV with 'jhamski' = user
+
 import csv
 import os
 import math
